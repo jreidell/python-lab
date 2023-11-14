@@ -1,3 +1,5 @@
+# https://www.learnpython.org/en/Variables_and_Types
+
 # Number can be either an int or a float
 myint = 7
 print(myint)

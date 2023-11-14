@@ -1,3 +1,5 @@
+# https://www.learnpython.org/en/String_Formatting
+
 # This prints out "Hello John"
 name = "John"
 print("Hello %s!" % name)

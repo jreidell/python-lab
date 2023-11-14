@@ -1,3 +1,5 @@
+# https://www.learnpython.org/en/Lists
+
 mylist = []
 mylist.append(1)
 mylist.append(2)

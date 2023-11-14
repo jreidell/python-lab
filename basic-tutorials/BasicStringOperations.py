@@ -1,3 +1,5 @@
+# https://www.learnpython.org/en/Basic_String_Operations
+
 astring = "Hello World!"
 astring2 = 'Hello World!'
 
